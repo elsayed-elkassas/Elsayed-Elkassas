@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Elsayed Elkassas 👋
+
+🎓 **Computer Science Student & Aspiring Data Analyst**  
+Passionate about turning raw data into meaningful business insights, interactive dashboards, and scalable data models.
+
+🛠️ Tech Stack & Tools
+* **BI & Visualization:** Microsoft Power BI, DAX, Power Query,Statistics, Excel (Pivot Tables, Advanced Formulas)
+* **Databases & Querying:** SQL (SSMS, MySQL, Window Functions, View, CTEs, Joins)
+* **Programming & CS:** C#, Data Structures, Algorithms
+
+📊 Featured Projects
+* **[Supply Chain Analytics Dashboard](https://github.com/elsayed-elkassas/Supply-Chain-Analytics-PowerBI):** End-to-end Power BI report analyzing sales, orders, and customer demographics with custom KPI UI.
+
+📬 Connect with Me
+* [LinkedIn](www.linkedin.com/in/elsayed-elkassas-84686638a) 
+* [Email](elsayedelkasas79@gmail.com)
 
 <!--
 **elsayed-elkassas/Elsayed-ElkaSsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
