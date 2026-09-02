@@ -11,6 +11,8 @@ Passionate about turning raw data into meaningful business insights, interactive
 📊 Featured Projects
 * **[Supply Chain Analytics Dashboard](https://github.com/elsayed-elkassas/Supply-Chain-Analytics-PowerBI):** End-to-end Power BI report analyzing sales, orders, and customer demographics with custom KPI UI.
 
+* **[Morshedy Real Estate Financial & Collection Dashboard](https://github.com/elsayed-elkassas/Morshedy-Real-Estate-Dashboard):** An enterprise-grade Power BI solution featuring a comprehensive multi-page navigation hub to track sales performance, installment lifecycles, and banking exposure across 8 major real estate projects.
+
 📬 Connect with Me
 * [LinkedIn](www.linkedin.com/in/elsayed-elkassas-84686638a) 
 * [Email](elsayedelkasas79@gmail.com)
